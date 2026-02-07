@@ -1,4 +1,11 @@
+# Secrets
 .env
 *.session
+
+# Python Cache
 __pycache__/
 *.pyc
+
+# Local Virtual Environments
+venv/
+.venv/
